@@ -33,3 +33,7 @@
 ### Auto-Scaling:
    EC2 Auto Scaling can be added as a buffer on top of your instances. It can add new instances to the application when necessary and terminate them when no longer needed automatically.
    You can set up a group of instances. Here you can set minimum capacity, the desired number, and the maximum capacity of instances that will always be running.
+   
+####Resource:
+[AWS EC2](https://www.w3schools.com/aws/aws_cloudessentials_ec2intro.php)
+
