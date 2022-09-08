@@ -4,6 +4,8 @@
   2. AWS CLI
   3. AWS SDK's
   4. Cloudformation 
+
+
 Many beginners find AWS console to be easy and user friendly so it is one of the primary method for interacting with the platform. We will discuss these methods one-by-one.
 
 ## AWS Console:
