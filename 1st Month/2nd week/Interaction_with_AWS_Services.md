@@ -34,12 +34,13 @@ AWS console looks something like this:
   `aws ec2 run-instances --count 1 --image-id ami-a36f8dc4 --instance-type t2.micro --key-name MainKey`
   
 ## AWS SDK's:
-AWS provides a number of Software Development Kits (SDKs) that allows interaction with the platform via code.
-SDKs are available for all the major programming languages, including:
-- Java 
-- Python
-- Node.JS
-- Go.
+  AWS provides a number of Software Development Kits (SDKs) that allows interaction with the platform via code.
+  SDKs are available for all the major programming languages, including:
+  - Java 
+  - Python
+  - Node.JS
+  - Go.
+
 ![Modular AWS SDK for JavaScript](https://d2908q01vomqb2.cloudfront.net/0716d9708d321ffb6a00818614779e779925365c/2020/10/23/sdk-overview-v3.png)
 
 ## Cloudformation:
