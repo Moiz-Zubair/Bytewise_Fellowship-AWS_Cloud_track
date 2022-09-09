@@ -38,7 +38,9 @@ https://user-images.githubusercontent.com/71292230/189417282-16e50680-c552-4401-
 ### 3. Easily control and track changes to your infrastructure:
    Cloud Formation templates are simplem text files which can be easily used to track chnges in thee infrastructure. We have complete control over the resources that we want to provision, we just describe the resource and its propertise in the template and within minutes it is ready for use.
    We can use a version control system to track changes in the template and can ealiy revert to the previous template settings.
-   
+  
+---
+
 The following image explains the AWS CloudFormation template structure:
 
 ![AWS Cloudformation Template](https://www.techielass.com/content/images/size/w1000/2022/04/GMT20220420-072512_Recording_1920x1080.00_00_00_00.Still001.png)
