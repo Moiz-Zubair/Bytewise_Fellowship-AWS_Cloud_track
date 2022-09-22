@@ -81,6 +81,8 @@
    
    ![image](https://user-images.githubusercontent.com/71292230/191800531-c5335404-6aab-442a-99ab-c4809b24f070.png)
 
-## Well-Architected Framework:
+## Well-Architected Framework :
+  The following picture gives a brief summary about AWS well-architected framework.
+  
 ![image](https://user-images.githubusercontent.com/71292230/191801165-b6987d6e-dca2-4c53-bbda-23d4568dbdfa.png)
    
