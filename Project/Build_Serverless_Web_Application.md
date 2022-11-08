@@ -1,6 +1,8 @@
 # Build a Serverless Web Application:
   using **AWS Lambda**, **Amazon API Gateway**, **AWS Amplify**, **Amazon DynamoDB**, and **Amazon Cognito**.
   
+  ![aws-removebg-preview](https://user-images.githubusercontent.com/71292230/200562604-8d82bbdc-61b3-4441-a94c-26898b7f467b.png)
+
 ## Basic Overview:
   We will develop a simple **serverless web application** that will allow users to request rides. In order to submit the request and dispatch a nearby ride, the application will interface with a RESTful web service on the backend and provide users with an HTML-based user interface where they can specify the location where they would like to be picked up. 
   Before requesting rides, users will also be able to register with the service and log in through the application.
